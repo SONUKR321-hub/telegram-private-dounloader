@@ -144,7 +144,7 @@ This project is for educational purposes. Make sure to comply with Telegram's Te
 
 ---
 
-**Made with ❤️ by [Sonu Kumar](https://github.com/yourusername)**  
+**Made with ❤️ by [Sonu Kumar](https://github.com/SONUKR321-hub)**  
 **MMIT Muzaffarpur**
 
 *For ultra-fast Telegram downloads at 80-150+ MB/s*
